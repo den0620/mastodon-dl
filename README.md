@@ -1,4 +1,4 @@
-Fork of an [Original Mastodon](https://github.com/mastodon/mastodon) for [Degroland](selfre.cc)
+Fork of an [Original Mastodon](https://github.com/mastodon/mastodon) for [Degroland](https://selfre.cc)
 
 
 
