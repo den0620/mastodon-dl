@@ -1,6 +1,8 @@
+# General Info
+
 Fork of an [Original Mastodon](https://github.com/mastodon/mastodon) for [Degroland](https://selfre.cc)
 
-
+Happens to be hosted at https://mtn.selfre.cc but may grow
 
 
 
